@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: includes/admin/class-charitable-track-donations-admin.php:97
+#: includes/admin/class-charitable-track-donations-admin.php:104
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-26 12:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-audit-charitable-donations.php:359
+#: includes/class-audit-charitable-donations.php:374
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/admin/class-audit-charitable-donations-admin.php:74
+#: includes/admin/class-audit-charitable-donations-admin.php:87
+msgid "Audit Donations"
+msgstr ""
+
+#: includes/admin/class-charitable-extension-activation.php:53
+msgid "This plugin"
+msgstr ""
+
+#: includes/admin/class-charitable-extension-activation.php:92
+msgid "activate it"
+msgstr ""
+
+#: includes/admin/class-charitable-extension-activation.php:95
+msgid "install it"
+msgstr ""
+
+#: includes/admin/class-charitable-extension-activation.php:98
+#, php-format
+msgctxt "Plugin requires Charitable! Please install/activate it to continue!"
+msgid "%s requires Charitable! Please %s to continue!"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:20
+#: includes/admin/views/expenses/add-expense.php:78
+msgid "Expense Title"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:22
+msgid "The name of the expense made"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:26
+msgid "Amount"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:28
+msgid "Enter the Expense Amount"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:32
+#: includes/admin/views/expenses/add-expense.php:77
+msgid "Date"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:34
+msgid "Enter the date an expense was made"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:38
+msgid "Select Appropriate Campaign"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:41
+msgid "Select a Campaign"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:48
+msgid "Choose an Activity for the expense made"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:52
+msgid "Upload Receipt"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:55
+msgid "Upload image"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:75
+msgid "Campaign Expenses Overview"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:79
+msgid "Expense Amount"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:80
+msgid "For the Campaigns"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:81
+msgid "Receipt"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:82
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/views/expenses/add-expense.php:112
+msgid "No Expenses"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:43
+msgid "Campaigns"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:44
+msgid "Donated"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:45
+msgid "Utilized"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:46
+msgid "Expense"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:62
+msgid "Receipt Title"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:63
+msgid "Receipt Date"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:64
+msgid "Receipt Amount"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:65
+msgid "View Receipt"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:80
+msgid "No Receipt"
+msgstr ""
+
+#: includes/shortcodes/class-audit-charitable-donations-by-campaign-shortcode.php:88
+msgid "No receipt available"
+msgstr ""

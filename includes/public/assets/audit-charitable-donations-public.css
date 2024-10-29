@@ -1,0 +1,5 @@
+.footable-details.table-bordered { border:0px !important; }
+.footable-details > tbody > tr > th { display: none; }
+.footable { text-align: center; }
+.fooicon { float: left; } 
+.footable-details.table th, .footable.table th { text-align: center !important; }
